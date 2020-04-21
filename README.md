@@ -1,2 +1,2 @@
-# ui-path-academy
+# UiPath Academy
 Repo with exercises from UiPath Academy for college.
